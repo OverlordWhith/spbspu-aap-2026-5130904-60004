@@ -1,6 +1,6 @@
 #include <iostream>
 
-namespace familiya
+namespace dorofeev
 {
   bool maxIncreasingRun(std::istream & in, std::size_t & result)
   {
